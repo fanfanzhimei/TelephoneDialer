@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">电话拨号器</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_telephone_dialer">电话拨号器</string>
+    <string name="str_call">拨号</string>
+</resources>
